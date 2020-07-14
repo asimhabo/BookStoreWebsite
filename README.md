@@ -1,2 +1,2 @@
 # BookStoreWebsite
-A simple website using ASP.NET core framework.
+A simple ASP.NET Core Web Application.
